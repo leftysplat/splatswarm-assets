@@ -1,0 +1,1 @@
+# SplatWorld Generated Assets
